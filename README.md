@@ -5,7 +5,7 @@ Face masks help reduce the transmission of SARS-CoV-2 by interfering with the sp
 The detection steps looks somewhat like this: 
 
 Quickstart the project
-Download the code in ZIP or open with GitHub Desktop or git clone https://github.com/FarhanSadaf/face-mask-detection.git. If you face issues downloading weight file, you can download from this google drive link.
+Download the code in ZIP or open with GitHub Desktop or git clone https://github.com/Shrii0807/face-mask-detection.git. If you face issues downloading weight file, you can download from this google drive link.
 Install required python dependencies into your python environment / virtual environment using pip install -r requirements.txt.
 Run script-1.py for real-time detection using webcam. If detection isn't to your liking, try running script-2.py.
 Dataset
