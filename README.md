@@ -1,4 +1,4 @@
-# face-mask-detection
+# Face-Mask-Detection
 Real-time Face Mask Detection
 Overview
 Face masks help reduce the transmission of SARS-CoV-2 by interfering with the spread of virus-laden droplets ejected from the nose and mouth. Wearing face mask is one of the precautionary steps an individual can take in order to lessen the spread of COVID-19. In this simple project, a video camera detects if an individual is wearing a face mask or not in real-time.
